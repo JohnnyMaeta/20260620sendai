@@ -20,7 +20,7 @@
 
 | 時間 | 内容 | 場所 / 備考 |
 | :--- | :--- | :--- |
-| 8:40–8:55 | **『話合い革命』** | B1階青年研修室 |
+| 8:40–8:55 | **『話合い革命』**<br>（<a href="https://bit.ly/kirokuneo" target="_blank">スーパー記録くん コピーリンク</a>） | B1階青年研修室 |
 | 11:05–11:20 | **『リアルタイム集計革命』** | B1階青年研修室 |
 
 ---
@@ -30,7 +30,7 @@
 ### 1. メインツール
 - <a href="https://gemini.google.com/" target="_blank">Gemini (Google AI)</a>
 - <a href="https://notebooklm.google.com/" target="_blank">NotebookLM</a>
-- <a href="https://bit.ly/kirokuneo" target="_blank">スーパー記録くん</a>
+- <a href="https://johnnymaeta.github.io/kirokukunneo/" target="_blank">スーパー記録くん</a>
 
 ### 2. 資料・リソース（順次追加）
 -  <a href="https://docs.google.com/presentation/d/1kAAEidSHIHPQohdmx0_ANTndOpso0HNjgzBTmu_Zr_k/edit?usp=sharing" target="_blank">『まずAIを使い倒せ』スライド資料</a>
