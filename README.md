@@ -35,8 +35,11 @@
 ### 2. 資料・リソース（順次追加）
 -  <a href="https://docs.google.com/presentation/d/1kAAEidSHIHPQohdmx0_ANTndOpso0HNjgzBTmu_Zr_k/edit?usp=sharing" target="_blank">『まずAIを使い倒せ』スライド資料</a>
 -  <a href="https://youtu.be/zHUgqLfdzBc?si=0_QVfnNKTtWhlBHf" target="_blank">解説動画『NotebookLMで「自分流」の所見を爆速で作る手順』</a>
+-  <a href="https://youtu.be/9XHhJMjaMog" target="_blank">解説動画『【Gemini×NotebookLM】AIで授業準備を爆速化！ワークフロー全公開』</a>
 
 <a href="https://youtu.be/zHUgqLfdzBc?si=0_QVfnNKTtWhlBHf" target="_blank"><img src="https://i.ytimg.com/vi/zHUgqLfdzBc/hqdefault.jpg" alt="NotebookLMで「自分流」の所見を爆速で作る手順" width="480"></a>
+
+<a href="https://youtu.be/9XHhJMjaMog" target="_blank"><img src="https://i.ytimg.com/vi/9XHhJMjaMog/hqdefault.jpg" alt="【Gemini×NotebookLM】AIで授業準備を爆速化！ワークフロー全公開" width="480"></a>
 
 ---
 
