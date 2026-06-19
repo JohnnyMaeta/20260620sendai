@@ -36,7 +36,7 @@
 -  <a href="https://docs.google.com/presentation/d/1kAAEidSHIHPQohdmx0_ANTndOpso0HNjgzBTmu_Zr_k/edit?usp=sharing" target="_blank">『まずAIを使い倒せ』スライド資料</a>
 -  <a href="https://youtu.be/zHUgqLfdzBc?si=0_QVfnNKTtWhlBHf" target="_blank">解説動画『NotebookLMで「自分流」の所見を爆速で作る手順』</a>
 
-[![NotebookLMで「自分流」の所見を爆速で作る手順](https://i.ytimg.com/vi/zHUgqLfdzBc/hqdefault.jpg)](https://youtu.be/zHUgqLfdzBc?si=0_QVfnNKTtWhlBHf)
+<a href="https://youtu.be/zHUgqLfdzBc?si=0_QVfnNKTtWhlBHf" target="_blank"><img src="https://i.ytimg.com/vi/zHUgqLfdzBc/hqdefault.jpg" alt="NotebookLMで「自分流」の所見を爆速で作る手順" width="480"></a>
 
 ---
 
