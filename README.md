@@ -12,16 +12,17 @@
 | 時間 | 内容 | 場所 / 備考 |
 | :--- | :--- | :--- |
 | 10:25–10:40 | **<a href="https://docs.google.com/presentation/d/1kAAEidSHIHPQohdmx0_ANTndOpso0HNjgzBTmu_Zr_k/edit?usp=sharing" target="_blank">『まずAIを使い倒せ』</a>** | B1階青年研修室 |
-| 13:35–14:05 | **『NotebookLMと通知表所見初稿を作ってみよう』** | 2階会議室1 |
+| 13:35–14:05 | **『NotebookLMと通知表所見初稿を作ってみよう』**<br>（<a href="https://drive.google.com/drive/folders/1V25ZLd9xZwrTtlZfg6hGHZ0pJ7iOmCWM?usp=sharing" target="_blank">所見ワーク用ダミーデータ</a>） | 2階会議室1 |
 | 14:10–14:40 | **『NotebookLMと教材研究・単元設計の下準備をやってみよう』** | 2階会議室1 |
 | 15:20–15:50 | **『NotebookLMで作った素材をGeminiに渡してCanvas機能で授業一式を一括作成してみよう』** | 2階会議室1 |
 
 ### 【6月21日（日）】
 
-| 時間 | 内容 | 場所 / 備考 |
-| :--- | :--- | :--- |
-| 8:40–8:55 | **『話合い革命』**<br>（<a href="https://bit.ly/kirokuneo" target="_blank">スーパー記録くん コピーリンク</a>） | B1階青年研修室 |
-| 11:05–11:20 | **『リアルタイム集計革命』** | B1階青年研修室 |
+| 時間          | 内容                                                                                      | 場所 / 備考  |
+| :---------- | :-------------------------------------------------------------------------------------- | :------- |
+| 8:40–8:55   | **『話合い革命』**<br>（<a href="https://bit.ly/kirokuneo" target="_blank">スーパー記録くん コピーリンク</a>） | B1階青年研修室 |
+| 11:05–11:20 | **『リアルタイム集計革命』**                                                                        | B1階青年研修室 |
+|             |                                                                                         |          |
 
 ---
 
